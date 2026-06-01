@@ -1,7 +1,7 @@
 sites:
   Belestepe (belestepe*.sbs):
-    last_known_mirror: belestepe866.sbs
-    success_since: 2026-05-31 08:06
+    last_known_mirror: belestepe896.sbs
+    success_since: 2026-06-01 18:32
   Turkifsaclub (turkifsaclub*.sbs):
     force_search_ahead: true
     last_known_mirror: turkifsaclub130.sbs
@@ -48,11 +48,12 @@ sites:
   TurkIfsa (turkifsa*.art):
     force_search_ahead: true
     initial_domain: turkifsa25.art
-    last_known_mirror: turkifsa25.art
-    success_since: 2026-05-30 08:47
+    last_known_mirror: turkifsa31.art
+    success_since: 2026-06-01 18:32
   TurkIfsa (turkifsa*.site):
     force_search_ahead: true
-    last_known_mirror: turkifsa10.site
+    last_known_mirror: turkifsa27.site
+    success_since: 2026-06-01 18:32
   TurkIfsa (turkifsalar*.site):
     force_search_ahead: true
     last_known_mirror: turkifsalar2.site
