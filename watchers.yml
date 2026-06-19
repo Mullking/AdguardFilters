@@ -15,7 +15,9 @@ sites:
   HDFilmCehennemi (hdfilmcehennemi*.org):
     initial_domain: t.co/3D4ep5ZtK4
     last_known_mirror: hdfilmcehennemi27.org
-    success_since: 2026-06-10 19:50
+    failed_since: 2026-06-19 06:04
+    failed_days: 0
+    potentially_dead: true
   Patronmac (patronmac*.cfd):
     last_known_mirror: patronmac94.cfd
     success_since: 2026-06-14 08:25
