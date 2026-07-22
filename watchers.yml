@@ -110,10 +110,10 @@ sites:
     last_known_mirror: mactanmaca512.sbs
     success_since: 2026-07-06 19:36
   PatronGol / Patronspor (patrongol*.cfd):
-    last_known_mirror: patrongol32.cfd
+    last_known_mirror: patrongol33.cfd
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-07-20 09:28
+    success_since: 2026-07-22 09:19
   PatronLive / Patronspor (patronlive*.cfd):
     last_known_mirror: patronlive48.cfd
     accept_antibot: true
@@ -163,7 +163,9 @@ sites:
     success_since: 2026-07-17 09:30
   Yavasgir (yavasgir*.live):
     last_known_mirror: yavasgir135.live
-    success_since: 2026-07-20 19:34
+    failed_since: 2026-07-22 09:19
+    failed_days: 0
+    potentially_dead: true
   Amatorifsa (amatorifsa*.com):
     last_known_mirror: amatorifsa36.com
     success_since: 2026-07-21 19:33
