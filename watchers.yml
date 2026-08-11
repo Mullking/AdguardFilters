@@ -216,7 +216,7 @@ sites:
     pattern_changed: true
     non_pattern_mirror: www.google.com
     failed_since: 2026-08-10 07:35
-    failed_days: 1
+    failed_days: 2
     potentially_dead: true
   JTV Kanal (jtvkanal*.vip):
     last_known_mirror: jtvkanal8.vip
