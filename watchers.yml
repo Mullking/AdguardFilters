@@ -109,7 +109,9 @@ sites:
     success_since: 2026-06-17 08:47
   Mapple-1 (mapple.*):
     last_known_mirror: mapple.rip
-    success_since: 2026-08-21 07:20
+    failed_since: 2026-08-23 02:17
+    failed_days: 0
+    potentially_dead: true
   Mapple-2 (mapplee.com):
     # probably with another domain name scheme
     last_known_mirror: mapplee.com
@@ -200,7 +202,7 @@ sites:
   Livosports (livosports*.live):
     last_known_mirror: livosports30.live
     failed_since: 2026-07-30 19:33
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   87betine (87betine*.live):
     last_known_mirror: 87betine.live
@@ -212,7 +214,7 @@ sites:
   JTV Kanal (jtvkanal*.vip):
     last_known_mirror: jtvkanal8.vip
     failed_since: 2026-07-30 19:33
-    failed_days: 23
+    failed_days: 24
     potentially_dead: true
   Ibizacanli (ibizacanli*.com):
     last_known_mirror: ibizacanli16.com
@@ -273,7 +275,7 @@ sites:
   Justintvizle (justintvizle*.top):
     last_known_mirror: justintvizle730.top
     failed_since: 2026-08-07 19:23
-    failed_days: 15
+    failed_days: 16
     potentially_dead: true
   Turkifsalife (turkifsalife*.blog):
     last_known_mirror: turkifsalife46.blog
@@ -281,7 +283,7 @@ sites:
   Porno shop (porno*.shop):
     last_known_mirror: porno28.shop
     failed_since: 2026-08-22 19:09
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   Rtally link (rtally.link):
     initial_domain: rtally.xyz
