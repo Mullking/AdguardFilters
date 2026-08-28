@@ -176,7 +176,7 @@ sites:
     initial_domain: sultansportv.com
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 08:11
-    failed_days: 25
+    failed_days: 26
     potentially_dead: true
   Yavasgir (yavasgir*.live):
     last_known_mirror: yavasgir135.live
@@ -280,9 +280,11 @@ sites:
     success_since: 2026-08-27 22:24
   Porno shop (porno*.shop):
     last_known_mirror: porno28.shop
-    failed_since: 2026-08-22 19:09
-    failed_days: 6
-    potentially_dead: true
+    heuristic_history:
+      - porno28.shop
+    pattern_changed: true
+    non_pattern_mirror: izleporno.life
+    success_since: 2026-08-28 12:19
   Rtally link (rtally.link):
     initial_domain: rtally.xyz
     last_known_mirror: www.rtally.xyz
@@ -297,8 +299,8 @@ sites:
     last_known_mirror: taratv31.shop
     success_since: 2026-08-13 14:21
   Taraftarium24 BJK (taraftarium24bjk*.com):
-    last_known_mirror: taraftarium24bjk13.com
-    success_since: 2026-08-25 19:14
+    last_known_mirror: taraftarium24bjk14.com
+    success_since: 2026-08-28 12:19
   Bahisligatv (bahisligatv*.com):
     last_known_mirror: bahisligatv3.com
     success_since: 2026-08-27 22:24
