@@ -171,7 +171,7 @@ sites:
     initial_domain: sultansportv.com
     last_known_mirror: sultansportv0789.com
     failed_since: 2026-08-03 08:11
-    failed_days: 31
+    failed_days: 32
     potentially_dead: true
   Yavasgir (yavasgir*.live):
     last_known_mirror: yavasgir136.live
@@ -203,7 +203,9 @@ sites:
       - 87betine.live
     pattern_changed: true
     non_pattern_mirror: www.google.com
-    success_since: 2026-08-14 01:36
+    failed_since: 2026-09-03 11:47
+    failed_days: 0
+    potentially_dead: true
   JTV Kanal (jtvkanal*.vip):
     last_known_mirror: jtvkanal8.vip
     failed_since: 2026-07-30 19:33
@@ -215,7 +217,9 @@ sites:
       - ibizacanli16.com
     pattern_changed: true
     non_pattern_mirror: www.google.com
-    success_since: 2026-07-31 13:36
+    failed_since: 2026-09-03 11:47
+    failed_days: 0
+    potentially_dead: true
   Bayconti TV (baycontitv*.com):
     last_known_mirror: baycontitv14.com
     success_since: 2026-08-04 21:50
@@ -295,11 +299,13 @@ sites:
     potentially_dead: true
   Bahisligatv (bahisligatv*.com):
     last_known_mirror: bahisligatv3.com
-    success_since: 2026-08-27 22:24
     heuristic_history:
       - bahisligatv3.com
     pattern_changed: true
     non_pattern_mirror: www.google.com
+    failed_since: 2026-09-03 11:47
+    failed_days: 0
+    potentially_dead: true
   Kacakspor (kacakspor*.com):
     last_known_mirror: www.kacakspor4.com
     success_since: 2026-08-28 17:04
@@ -330,7 +336,9 @@ sites:
     success_since: 2026-08-21 13:21
   Pelitcanlitv (pelitcanlitv*.com):
     last_known_mirror: pelitcanlitv.com
-    success_since: 2026-08-21 13:21
+    failed_since: 2026-09-03 11:47
+    failed_days: 0
+    potentially_dead: true
   MMA Box (mmabox.*):
     last_known_mirror: mmabox.me
     success_since: 2026-08-21 13:21
