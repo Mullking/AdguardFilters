@@ -23143,6 +23143,8 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 !
 !
 !+ NOT_OPTIMIZED
+goal.com##[data-type="AdSlot"]
+!+ NOT_OPTIMIZED
 firstpost.com##body .add_container
 !+ NOT_OPTIMIZED
 katitube.com##.linkvideo
